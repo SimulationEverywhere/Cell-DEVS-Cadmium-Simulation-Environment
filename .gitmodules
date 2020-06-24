@@ -1,3 +1,7 @@
 [submodule "Cadmium-Cell-DEVS-Models"]
 	path = Cadmium-Cell-DEVS-Models
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-Cell-DEVS-Models
+[submodule "cadmium"]
+	path = cadmium
+	url = https://github.com/SimulationEverywhere/cadmium/
+	branch = celldevs-json
