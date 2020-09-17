@@ -5,3 +5,15 @@
 	path = cadmium
 	url = https://github.com/SimulationEverywhere/cadmium/
 	branch = celldevs-json
+[submodule "Cell-DEVS-CO2_spread_indoor"]
+	path = Cell-DEVS-CO2_spread_indoor
+	url = https://github.com/SimulationEverywhere-Models/Cell-DEVS-CO2_spread_indoor
+[submodule "Cadmium-Cell-DEVS-Modified-Hoya-Model"]
+	path = Cadmium-Cell-DEVS-Modified-Hoya-Model
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Cell-DEVS-Modified-Hoya-Model
+[submodule "Geography-Based-Model"]
+	path = Geography-Based-Model
+	url = https://github.com/SimulationEverywhere-Models/Geography-Based-Model
+[submodule "Cell-DEVS-Hoya"]
+	path = Cell-DEVS-Hoya
+	url = https://github.com/SimulationEverywhere-Models/Cell-DEVS-Hoya
