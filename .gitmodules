@@ -5,3 +5,6 @@
 	path = cadmium
 	url = https://github.com/SimulationEverywhere/cadmium/
 	branch = celldevs-json
+[submodule "DESTimes"]
+	path = DESTimes
+	url = https://github.com/SimulationEverywhere/DESTimes.git
